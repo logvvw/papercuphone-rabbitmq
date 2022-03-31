@@ -15,7 +15,7 @@
         <springframework.version>4.1.0.RELEASE</springframework.version>
         <ch.qos.logback.version>1.1.2</ch.qos.logback.version>
         <jackson.version>2.4.0</jackson.version>
-        <spring.boot>1.1.4.RELEASE</spring.boot>
+        <spring.boot>2.5.12</spring.boot>
         <release>release</release>
     </properties>
 
